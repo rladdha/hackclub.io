@@ -20,12 +20,14 @@ h1 {
     text-align: center;
     color: red;
     font-weight: 300;
+    font-size: 100px;
 }
 
-p1 {
+h3 {
     text-align: center;
     color: teal;
     font-weight: 300;
+    font-size: 75px;
 }
 
 h2, #news {
@@ -41,5 +43,4 @@ h2, #news {
 
 #weather {
     color: blue;
-    background-color: white;
 }
