@@ -3,7 +3,7 @@ html {
     margin: 0 auto;
     padding: 10px;
     font-family: Avenir Next, Helvetica, sans-serif;
-    background-color: orange;
+    background-color: aqua;
 }
 
 a {
@@ -23,24 +23,32 @@ h1 {
     font-size: 100px;
 }
 
-h3 {
+h2 {
     text-align: center;
     color: teal;
-    font-weight: 300;
-    font-size: 75px;
+    font-weight: 200;
+    font-size: 50px;
 }
 
-h2, #news {
-    font-weight: 300;
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: maroon;
+    font-weight: 900;
+    font-size: 30px;
 }
 
 #news {
+    font-weight: 300;
     font-size: 1.5em;
     line-height: 1.5em;
-    color: red;
-    background-color: gray;
+    background-color: teal;
 }
 
 #weather {
-    color: blue;
+    color: IndianRed;
+    font-size: 25px;
 }
