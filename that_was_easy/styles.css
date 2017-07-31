@@ -1,6 +1,11 @@
 #easy {
+<<<<<<< HEAD
     width: 1000px;
     height: 1000px;
+=======
+    width: 900px;
+    height: 900px;
+>>>>>>> f7edb7e74a5a2df8c611aa928ea84f899af71219
     border-radius: 500px;
     border-color: black;
     background-color: red;
